@@ -10,5 +10,6 @@ none
 ### What does it look like?? 
 #### Portrait
 <img src="https://github.com/Helen-Noe/Calculator-Layout/blob/main/portrait-iphone11.png" width="276" height="598">
+
 #### Landscape
 <img src="https://github.com/Helen-Noe/Calculator-Layout/blob/main/landscape-iphone11.png" width="896" height="414">
